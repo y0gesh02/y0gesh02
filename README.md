@@ -1,7 +1,8 @@
 - 👋 Hi, I’m YOGESH SAKLE
-- 👀 I’m interested in Data Structures And Algorithms. 
-- 🌱 I’m currently learning MERN Stack.
-- Email -   yogeshsakle8@gmail.com
+- 🌱 I’m a 3rd year Undergraduate at CDGI Indore, pursuing B.Tech in IT.
+- 👀 I’m interested in Data Structures And Algorithms.
+- 📫 How to reach me - yogeshsakle8@gmail.com
+
 
 
 <!---
