@@ -1,5 +1,4 @@
-# Hello < Developers/> ! ![This is an image](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-
+# Hello < Developers/> !!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 - 👋 Hi, I’m YOGESH SAKLE
 - 🌱 I’m a 3rd year Undergraduate at CDGI Indore, pursuing B.Tech in IT.
