@@ -3,7 +3,7 @@
 - 👋 Hi, I’m YOGESH SAKLE
 - 🌱 I’m a 3rd year Undergraduate at CDGI Indore, pursuing B.Tech in IT.
 - 👀 I’m interested in Data Structures And Algorithms.
-- 📫 How to reach me - yogeshsakle8@gmail.com
+- 📫 Feel free to contact me - yogeshsakle8@gmail.com
 
 
 
