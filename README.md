@@ -10,7 +10,6 @@
 
 - 👋 I’m YOGESH SAKLE
 - 🌱 I’m a Final year Student at CDGI Indore, pursuing B.Tech in IT.
-- 👀 I’m interested in Frontend Development and Data Structures And Algorithms.
 - 📫 Feel free to contact me - yogeshsakle8@gmail.com
 
 <h3 align="left">Connect with me:</h3>
