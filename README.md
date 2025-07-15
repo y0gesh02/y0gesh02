@@ -4,8 +4,10 @@
 <br>
 
 - 👋 I’m YOGESH SAKLE
-- 📫 Feel free to contact me - yogeshsakle8@gmail.com
-- 🔭 I’m currently working on Ruby on Rails
+- 🔭 Currently working with **Ruby on Rails**
+- 🛠️ Focused on **Backend Development** with clean, scalable, and maintainable code
+- 📫 Reach me at: [yogeshsakle8@gmail.com](mailto:yogeshsakle8@gmail.com)
+- 💻 Passionate about building full-stack web applications
 
 <h3 align="left">Connect with me:</h3>
 
